@@ -3,3 +3,4 @@ This Repo constains the Excersises on various git commands done in cloned repo i
 merged
 again new change.
 # test line
+Appending some new info for child branch 2
