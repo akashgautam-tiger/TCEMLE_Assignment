@@ -4,3 +4,4 @@ merged
 again new change.
 # test line
 have done some initial change for my first child branch
+Some edit for second commit in childbranch2
